@@ -1,0 +1,531 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.37.32822.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/01simplestaticdemo/ezarpenak.c"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "4f62610ca2bdca989f7d62cd9244132d28ecf34b31225ed937d296faffd7a4a1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/simplesdlwrapper/ebentoak.h"
+          },
+          "hashes": {
+            "sha-256": "eca736e7c5efd82e6316d22d193cc9996169bae2195ce737fac387c3c5a32791"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl.h"
+          },
+          "hashes": {
+            "sha-256": "8d6d2cdb4bc62d1d4fd21e25a4111e95cc9743ef6892756e545a3654ca93d513"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_main.h"
+          },
+          "hashes": {
+            "sha-256": "fe671e88570bfe942f45b3b0b01e6c01f278ab0634a998baa7d07c66ba90553e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_stdinc.h"
+          },
+          "hashes": {
+            "sha-256": "9ead493b23f419ddef1cd70eda1e8eb604fe2f79903b95385810b18a320a1ba4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_config.h"
+          },
+          "hashes": {
+            "sha-256": "001eb7d73ea5d98fcb2eed536b3ba280a29599488e532bde4b509205dd0dc463"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_platform.h"
+          },
+          "hashes": {
+            "sha-256": "912a7897d060e7698856827cf7580003662c5c14e98b4a75b8b850e3585c1075"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/begin_code.h"
+          },
+          "hashes": {
+            "sha-256": "403060d08a7782bd674046e5ebf5bd2f067aa647671a367475454b17be8b3c8e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/close_code.h"
+          },
+          "hashes": {
+            "sha-256": "7d14883849dc6db8aceba48b386da979ba925bc0c040cbc715aa51a59025324c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_config_windows.h"
+          },
+          "hashes": {
+            "sha-256": "1d62d965f991b12b8b053df58bfa3b2a23e361efa9026e0bb9c87b3a80ce9241"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_assert.h"
+          },
+          "hashes": {
+            "sha-256": "b73ee5efd4f2eb9b9a0bfb601c20254ed0ad95e56415e9d6b12e2457aa5ea118"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_atomic.h"
+          },
+          "hashes": {
+            "sha-256": "0e72afbe26626954f43dbcc097a0216dd27d3344b69ceb967c29db9472d1eae1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_audio.h"
+          },
+          "hashes": {
+            "sha-256": "50cedad54591912fca7d4b6c34649c1e8da257f38b9cb4588ea0e3e37d1d2974"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_error.h"
+          },
+          "hashes": {
+            "sha-256": "80d7e08e99ff2df564bf6783bbdae48558c4340fe0dbff59b1c81e9c371c0cc3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_endian.h"
+          },
+          "hashes": {
+            "sha-256": "a90442304a3152ee968d1f4e5197690b50625a2c6801f012b6cbc84593f5d4f9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_mutex.h"
+          },
+          "hashes": {
+            "sha-256": "36fcd5cd3eb9a2458e3e93b9dcdabdfec91fb80a000677a70a4e16faf626109b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_thread.h"
+          },
+          "hashes": {
+            "sha-256": "29ba54740141a24e9e2ffe2a486fd58a6fa2507df5c9524c20075c1fef1e6abe"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_rwops.h"
+          },
+          "hashes": {
+            "sha-256": "964d64d7cf02e95bb763182ac2bdb3f77d5a4576cea4b474d86a79fbbf6a8b4e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_clipboard.h"
+          },
+          "hashes": {
+            "sha-256": "5bc370945176ad926b226c2bcc7c22416943550c6bf91c395bffc18d273dfd52"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_cpuinfo.h"
+          },
+          "hashes": {
+            "sha-256": "e49cd25f0ee91e4ec847e4da807a6136f03f703f8453e2e209a4d0382c76df45"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_events.h"
+          },
+          "hashes": {
+            "sha-256": "eb4e33f3051d1ae8e2e530475492418b23ec893e29760b97f04b98bdbc708218"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_video.h"
+          },
+          "hashes": {
+            "sha-256": "587e1d181c4384e6954323c83ce09ba44b58fc4ff50f24b69fddf62da6141da0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_pixels.h"
+          },
+          "hashes": {
+            "sha-256": "0d9587407102dc9afb96a5737133e7b427606ed7f81c1c39dd67c629c8ca91e8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_rect.h"
+          },
+          "hashes": {
+            "sha-256": "d37aa93456b0a2c9bbf1883dec05445e5ffc6f5421a2becac72020f7e0c55db6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_surface.h"
+          },
+          "hashes": {
+            "sha-256": "3f280df4378fae18af0ca09610304a2ebd3d3d343de9327d76a50b8d1b02bb65"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_blendmode.h"
+          },
+          "hashes": {
+            "sha-256": "cac36248c71767cb83eef6dca054f3f9b8830ac469ff3d7939cbd90d4fae9e66"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_keyboard.h"
+          },
+          "hashes": {
+            "sha-256": "49b90e4b251c06418f63f67ea6bf62be0fda99b9d9207aa0a810761ef8e16513"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_keycode.h"
+          },
+          "hashes": {
+            "sha-256": "f21f077a3e98855abbf75f158c9ea75328994d1418542d8e62b0402134c0cb15"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_scancode.h"
+          },
+          "hashes": {
+            "sha-256": "95715e927121e26c59ca5defaddb3681db469cfb0f7e28ebd29ca5bcb13192d6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_mouse.h"
+          },
+          "hashes": {
+            "sha-256": "36d52c7666f68c16593b3558413349c8360c36f11ce7d53917dabc6f616bd0aa"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_joystick.h"
+          },
+          "hashes": {
+            "sha-256": "780d73ca4ba0d356adcb0e3e47e41334a41eefdbfeae1d7c581185ac1f3a818f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_gamecontroller.h"
+          },
+          "hashes": {
+            "sha-256": "b785062adaae05af1db9fab99ce2130c71ffd5de2881d00a79421617e01eb00a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_quit.h"
+          },
+          "hashes": {
+            "sha-256": "2b75d390839c598427797afdadf434e7710ab8ac6780f6d10afc4e814ff01972"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_gesture.h"
+          },
+          "hashes": {
+            "sha-256": "cd0112ddd766980a774db99fb4e1ca62ef24861fd3f9cb41062afd1a69077dc0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_touch.h"
+          },
+          "hashes": {
+            "sha-256": "cca4142208079383b18491c25524a1c96ab2e29117e304bb28db7efbc9d6e7a3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_filesystem.h"
+          },
+          "hashes": {
+            "sha-256": "1a030ea0a32ff027941a30b5793b154ddbe5e38e39e736201a99db10f206f716"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_haptic.h"
+          },
+          "hashes": {
+            "sha-256": "0eff56331cf9cc26853fd9940fde8c30a1f4d86d620b119015d9485a057fe1bd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_hints.h"
+          },
+          "hashes": {
+            "sha-256": "90b601337fa388f7f561f3a621af78795674a33ffb84c4680e6231c46631fe85"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_loadso.h"
+          },
+          "hashes": {
+            "sha-256": "bf46de332b2ce4b50cd8092387c64b86c5464f36c48f9e6d2cc81f5be50e52f3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_log.h"
+          },
+          "hashes": {
+            "sha-256": "1b3651d8004b5a5c207b76af02f47c4442c68b4496ae426a189e607a12b25b24"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_messagebox.h"
+          },
+          "hashes": {
+            "sha-256": "bb1fe46d5f84b1c7ef186608db34005746017ab631812ebea26b4d028828ba4b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_power.h"
+          },
+          "hashes": {
+            "sha-256": "a11b2d26e33fe6f02f22cbb3db0c353eecfef474ea5704da6a788e14d4c1d0c6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_render.h"
+          },
+          "hashes": {
+            "sha-256": "1b0611fbf8a133e9f188632f55e085ca4aaf4149fefc85d973476fd0d99a730d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_system.h"
+          },
+          "hashes": {
+            "sha-256": "7c556ee9a46342448254b7cfa3697f86c0d76ba6d3fa32a119659d1fd5a005f8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_timer.h"
+          },
+          "hashes": {
+            "sha-256": "6bfa0425f15ec8e64a7a2465d99c8f6786dd471708bc1b7fc55322127d77b56b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2/include/sdl_version.h"
+          },
+          "hashes": {
+            "sha-256": "f3aff017be0d3555cf03ab4c72107d0b58bc0ab87d518fcf425ba858239ae1ac"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/simplesdlwrapper/graphics.h"
+          },
+          "hashes": {
+            "sha-256": "1bbbfd57be98e12c1638c0379764fbb08f70008f2ab6c57b7193a3e1da4cfd7d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/simplesdlwrapper/imagen.h"
+          },
+          "hashes": {
+            "sha-256": "bae8c73f197aa51383db94603e36865a71256268483bf9b66f31c4e8bba0cb53"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/simplesdlwrapper/soinua.h"
+          },
+          "hashes": {
+            "sha-256": "8cb7c45053cb15892090120643d54a6c60138729c3bfd33a26a506e4ec5e2314"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2mixer/include/sdl_mixer.h"
+          },
+          "hashes": {
+            "sha-256": "3ff04b0e72caa789242f19457edb503c8d065c338f2b9bf699493d29c5196f68"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/simplesdlwrapper/text.h"
+          },
+          "hashes": {
+            "sha-256": "abcd5e201ad53bbc7dfdc7854b91215ad621913da74833a39107195515bcdff4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/01simplestaticdemo/dialogoak.h"
+          },
+          "hashes": {
+            "sha-256": "385ad89d2687ca891ddb94a22d279a12b29830e2021de61b1bbfe75c7a50d5ff"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/01simplestaticdemo/ezarpenak.h"
+          },
+          "hashes": {
+            "sha-256": "6ecc578f007d3a0d0ab1f48d020f76e3d1a1df71b2d7af2cfdf683f43aba11df"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/01simplestaticdemo/gida.h"
+          },
+          "hashes": {
+            "sha-256": "7fa082fb3edbb9e08cd01b57cf0026ec5a4ff113f280469af0c6fe903566a43f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/01simplestaticdemo/irabazi.h"
+          },
+          "hashes": {
+            "sha-256": "64d7d48138922aa69ccaab65769bcb6c14f1c366e134f817205c3f4eb0e49a2b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/01simplestaticdemo/irudiak.h"
+          },
+          "hashes": {
+            "sha-256": "74db26e48d0fd3db83b243f72baef47030cc9a2fd07e3545bf922adc70970b3f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/01simplestaticdemo/musika.h"
+          },
+          "hashes": {
+            "sha-256": "135f5623179cfec20c5ea2a4d66661687c5510406788a15aac488f59dde6ef37"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/01simplestaticdemo/jolasa.h"
+          },
+          "hashes": {
+            "sha-256": "720b25f22f8ec9fdc342167008c27932af5b873629d43e71e5689e1601ff442e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/01simplestaticdemo/orokorrak.h"
+          },
+          "hashes": {
+            "sha-256": "f218dfb4f8d5d8629ea0412035ac5c77715a1877ffbc81f7a7fd5d25e376c98b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/01simplestaticdemo/kredituak.h"
+          },
+          "hashes": {
+            "sha-256": "b65bef81c974ebbaa3fc05f17165f1b440a79eb3589ca7ec08bba02098c1c066"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/01simplestaticdemo/menua.h"
+          },
+          "hashes": {
+            "sha-256": "20311218cc92caad535870cbc0f69fa67688a6dcae8dfb1b712a7777c5a7e120"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/01simplestaticdemo/ourtypes.h"
+          },
+          "hashes": {
+            "sha-256": "26715a88de40e14ebb6cd86f6d6b0b485c947fa1d8efdcdffbcaf1a69eaa284d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/nagore/desktop/sdlexamplesvcws/sdlexamplesvcws/sdl2image/include/sdl_image.h"
+          },
+          "hashes": {
+            "sha-256": "c3650b4a8546ef5798a12c259cdae878e296f847243977c00be82bb52a4f5166"
+          }
+        }
+      ]
+    }
+  ]
+}

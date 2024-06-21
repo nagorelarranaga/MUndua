@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Nagore\Desktop\sdlExamplesVcWS\sdlExamplesVcWS\simpleSdlWrapper\</FILEPATH>
+      <FILENAME>graphics.c</FILENAME>
+      <LINE>73</LINE>
+      <COLUMN>39</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Desbordamiento aritmético: el operador "-" se usa en un valor de 4 bytes y, a continuación, el resultado se convierte a un valor de 8 bytes. Convierta el valor al tipo más amplio antes de llamar al operador "-" para evitar el desbordamiento (io.2).</DESCRIPTION>
+    <FUNCTION>zirkuluaMarraztu</FUNCTION>
+    <DECORATED>zirkuluaMarraztu</DECORATED>
+    <FUNCLINE>66</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Nagore\Desktop\sdlExamplesVcWS\sdlExamplesVcWS\simpleSdlWrapper\</FILEPATH>
+      <FILENAME>graphics.c</FILENAME>
+      <LINE>73</LINE>
+      <COLUMN>36</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Desbordamiento aritmético: el operador "*" se usa en un valor de 4 bytes y, a continuación, el resultado se convierte a un valor de 8 bytes. Convierta el valor al tipo más amplio antes de llamar al operador "*" para evitar el desbordamiento (io.2).</DESCRIPTION>
+    <FUNCTION>zirkuluaMarraztu</FUNCTION>
+    <DECORATED>zirkuluaMarraztu</DECORATED>
+    <FUNCLINE>66</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

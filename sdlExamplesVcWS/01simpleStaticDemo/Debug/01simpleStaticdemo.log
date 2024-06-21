@@ -1,0 +1,170 @@
+﻿  ebentoak.c
+  graphics.c
+  imagen.c
+  soinua.c
+  text.c
+  afrika.c
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.h(11,19): warning C4028: parámetro formal 1 distinto de la declaración
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\afrika.c(92,23): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [15]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\afrika.c(92,23): warning C4024: 'atzekoplanoaJarri': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\afrika.c(105,32): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [17]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\afrika.c(105,32): warning C4024: 'musikaJarri': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\afrika.c(109,26): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [24]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\afrika.c(109,26): warning C4024: 'dialogoapantailaratu': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\afrika.c(155,75): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'int'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\afrika.c(155,75): warning C4024: 'irudiaKargatu': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\afrika.c(165,75): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'int'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\afrika.c(165,75): warning C4024: 'irudiaKargatu': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\afrika.c(176,75): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'int'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\afrika.c(176,75): warning C4024: 'irudiaKargatu': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\afrika.c(48,18): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [14]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\afrika.c(48,18): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [18]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\afrika.c(48,18): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [22]'
+  asia.c
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.h(11,19): warning C4028: parámetro formal 1 distinto de la declaración
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\asia.c(83,23): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [13]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\asia.c(83,23): warning C4024: 'atzekoplanoaJarri': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\asia.c(86,32): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [15]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\asia.c(86,32): warning C4024: 'musikaJarri': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\asia.c(89,26): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [22]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\asia.c(89,26): warning C4024: 'dialogoapantailaratu': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\asia.c(118,71): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'int'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\asia.c(118,71): warning C4024: 'irudiaKargatu': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\asia.c(42,18): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [24]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\asia.c(42,18): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [17]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\asia.c(42,18): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [20]'
+  dialogoak.c
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.h(11,19): warning C4028: parámetro formal 1 distinto de la declaración
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\dialogoak.c(50,37): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'int'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\dialogoak.c(50,37): warning C4024: 'irudiaKargatu': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\dialogoak.c(63,37): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'int'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\dialogoak.c(63,37): warning C4024: 'irudiaKargatu': tipos distintos para el parámetro formal y el parámetro real 1
+  europa.c
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.h(11,19): warning C4028: parámetro formal 1 distinto de la declaración
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\europa.c(80,23): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [15]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\europa.c(80,23): warning C4024: 'atzekoplanoaJarri': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\europa.c(87,32): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [17]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\europa.c(87,32): warning C4024: 'musikaJarri': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\europa.c(92,26): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [24]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\europa.c(92,26): warning C4024: 'dialogoapantailaratu': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\europa.c(48,18): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [21]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\europa.c(48,18): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [20]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\europa.c(48,18): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [22]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\europa.c(44,9): warning C4101: 'i': variable local sin referencia
+  ezarpenak.c
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.h(11,19): warning C4028: parámetro formal 1 distinto de la declaración
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\ezarpenak.c(49,23): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [18]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\ezarpenak.c(49,23): warning C4024: 'atzekoplanoaJarri': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\ezarpenak.c(93,26): warning C4087: 'musikaOn': se ha declarado con la lista de parámetros 'void'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\ezarpenak.c(111,18): warning C4087: 'musikaOn': se ha declarado con la lista de parámetros 'void'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\ezarpenak.c(130,1): warning C4027: función declarada sin lista de parámetros formales
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\ezarpenak.c(132,18): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'int'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\ezarpenak.c(132,18): warning C4024: 'loadTheMusic': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\ezarpenak.c(133,15): warning C4087: 'playMusic': se ha declarado con la lista de parámetros 'void'
+  gida.c
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.h(11,19): warning C4028: parámetro formal 1 distinto de la declaración
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\gida.c(40,23): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [13]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\gida.c(40,23): warning C4024: 'atzekoplanoaJarri': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\gida.c(67,13): warning C4013: 'gidapantailaratu' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\gida.c(113,39): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'int'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\gida.c(113,39): warning C4024: 'irudiaKargatu': tipos distintos para el parámetro formal y el parámetro real 1
+  hegoamerika.c
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.h(11,19): warning C4028: parámetro formal 1 distinto de la declaración
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\hegoamerika.c(72,23): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [20]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\hegoamerika.c(72,23): warning C4024: 'atzekoplanoaJarri': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\hegoamerika.c(86,32): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [22]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\hegoamerika.c(86,32): warning C4024: 'musikaJarri': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\hegoamerika.c(90,26): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [29]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\hegoamerika.c(90,26): warning C4024: 'dialogoapantailaratu': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\hegoamerika.c(48,18): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [13]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\hegoamerika.c(48,18): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [27]'
+  iparamerika.c
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.h(11,19): warning C4028: parámetro formal 1 distinto de la declaración
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\iparamerika.c(99,23): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [20]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\iparamerika.c(99,23): warning C4024: 'atzekoplanoaJarri': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\iparamerika.c(107,32): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [22]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\iparamerika.c(107,32): warning C4024: 'musikaJarri': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\iparamerika.c(111,26): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [29]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\iparamerika.c(111,26): warning C4024: 'dialogoapantailaratu': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\iparamerika.c(121,67): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'int'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\iparamerika.c(121,67): warning C4024: 'irudiaKargatu': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\iparamerika.c(141,44): warning C4020: 'atzerajoan': hay demasiados parámetros reales
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\iparamerika.c(172,77): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'int'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\iparamerika.c(172,77): warning C4024: 'irudiaKargatu': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\iparamerika.c(48,18): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [17]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\iparamerika.c(48,18): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [27]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\iparamerika.c(54,9): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [19]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\iparamerika.c(44,56): warning C4101: 'tick': variable local sin referencia
+  irabazi.c
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.h(11,19): warning C4028: parámetro formal 1 distinto de la declaración
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\irabazi.c(83,21): warning C4013: 'hasierapantaila' sin definir; se supone que extern devuelve como resultado int
+  jolastu.c
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.h(11,19): warning C4028: parámetro formal 1 distinto de la declaración
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(76,23): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [15]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(76,23): warning C4024: 'atzekoplanoaJarri': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(79,32): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [16]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(79,32): warning C4024: 'musikaJarri': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(86,66): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'int'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(86,66): warning C4024: 'irudiaKargatu': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(96,30): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [26]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(96,30): warning C4024: 'dialogoapantailaratu': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(97,30): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [26]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(97,30): warning C4024: 'dialogoapantailaratu': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(111,16): warning C4550: la expresión se evalúa como una función a la que le falta una lista de argumentos
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(121,37): warning C4020: 'atzerajoan': hay demasiados parámetros reales
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(132,54): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [27]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(132,54): warning C4024: 'dialogoapantailaratu': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(141,49): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [30]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(141,49): warning C4024: 'dialogoaJokoaEginda': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(42,9): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [26]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(42,9): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [21]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(42,9): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [19]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\jolastu.c(42,9): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [22]'
+  orokorrak.c
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.h(11,19): warning C4028: parámetro formal 1 distinto de la declaración
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\orokorrak.c(30,34): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'int'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\orokorrak.c(30,34): warning C4024: 'irudiaKargatu': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\orokorrak.c(62,13): warning C4013: 'hasierapantaila' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\orokorrak.c(127,37): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'int'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\orokorrak.c(127,37): warning C4024: 'irudiaKargatu': tipos distintos para el parámetro formal y el parámetro real 1
+  kredituak.c
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.h(11,19): warning C4028: parámetro formal 1 distinto de la declaración
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\kredituak.c(35,23): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [18]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\kredituak.c(35,23): warning C4024: 'atzekoplanoaJarri': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\kredituak.c(50,33): warning C4020: 'atzerajoan': hay demasiados parámetros reales
+  menua.c
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.c(45,5): warning C4013: 'hasierapantaila' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.c(57,23): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [14]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.c(57,23): warning C4024: 'atzekoplanoaJarri': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.c(60,32): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [16]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.c(60,32): warning C4024: 'musikaJarri': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.c(82,69): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [30]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.c(82,69): warning C4024: 'mugimenduMenuBotoiak': tipos distintos para el parámetro formal y el parámetro real 3
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.c(83,61): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [22]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.c(83,61): warning C4024: 'mugimenduMenuBotoiak': tipos distintos para el parámetro formal y el parámetro real 3
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.c(84,62): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [23]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.c(84,62): warning C4024: 'mugimenduMenuBotoiak': tipos distintos para el parámetro formal y el parámetro real 3
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.c(85,66): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [27]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.c(85,66): warning C4024: 'mugimenduMenuBotoiak': tipos distintos para el parámetro formal y el parámetro real 3
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.c(86,66): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [27]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.c(86,66): warning C4024: 'mugimenduMenuBotoiak': tipos distintos para el parámetro formal y el parámetro real 3
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.c(134,41): warning C4047: 'función': 'char *' es distinto en los niveles de direccionamiento indirecto de 'int'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.c(134,41): warning C4024: 'irudiaKargatu': tipos distintos para el parámetro formal y el parámetro real 1
+  main.c
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.h(11,19): warning C4028: parámetro formal 1 distinto de la declaración
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\main.c(24,1): warning C4026: función declarada con lista de parámetros formales
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\main.c(27,11): warning C4101: 'pos': variable local sin referencia
+  ozeania.c
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\menua.h(11,19): warning C4028: parámetro formal 1 distinto de la declaración
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\ozeania.c(96,23): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [16]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\ozeania.c(96,23): warning C4024: 'atzekoplanoaJarri': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\ozeania.c(111,32): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [18]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\ozeania.c(111,32): warning C4024: 'musikaJarri': tipos distintos para el parámetro formal y el parámetro real 2
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\ozeania.c(115,26): warning C4047: 'función': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [25]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\ozeania.c(115,26): warning C4024: 'dialogoapantailaratu': tipos distintos para el parámetro formal y el parámetro real 1
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\ozeania.c(48,18): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [16]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\ozeania.c(48,18): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [15]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\ozeania.c(48,18): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [18]'
+C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\01simpleStaticDemo\ozeania.c(48,18): warning C4047: 'inicializando': 'int' es distinto en los niveles de direccionamiento indirecto de 'char [23]'
+  Generando código...
+  01simpleStaticDemo.vcxproj -> C:\Users\Nagore\Desktop\MUndua\sdlExamplesVcWS\Debug\mundua.exe
