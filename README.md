@@ -11,6 +11,7 @@ Eta horrela joko honetan jolas daiteke.
 
   Oharra:
   Karpeta printzipala "MUndua" deitu behar da eta bere barruan "sdlExamplesVcWS" karpeta egon behar da. Hori horrela ez bada, batzuetan arazoak ematen ditu.
+  Hurrengo link-ean ikus daiteke nola jolastu ahal den bideo-jokoan: https://drive.google.com/file/d/1YGeUP2hUUOTfgBwFzGjZH-BaXIktgJfH/view?usp=sharing
 
 -------------------------------------------------------------------------------------
 
@@ -27,6 +28,7 @@ Y así se puede jugar a este juego.
 
   Nota:
   La carpeta principal debe llamarse "MUndua" y dentro de ella debe estar la carpeta "sdlExamplesVcWS". Si no es así, a veces puede causar problemas.
+  En el siguiente enlace se puede ver cómo se puede jugar en el videojuego: https://drive.google.com/file/d/1YGeUP2hUUOTfgBwFzGjZH-BaXIktgJfH/view?usp=sharing
 
 -------------------------------------------------------------------------------------
 
@@ -43,3 +45,4 @@ And then you can play this game.
 
   Note:
   The main folder must be named "MUndua" and inside it, there must be a folder named "sdlExamplesVcWS". If this is not the case, it can sometimes cause problems.
+  In the following link, you can see how to play the video game: https://drive.google.com/file/d/1YGeUP2hUUOTfgBwFzGjZH-BaXIktgJfH/view?usp=sharing
