@@ -9,6 +9,9 @@ Karpetan .sln artxiboa zabaldu behar da (Microsoft Visual Studio) zabalduko duen
 Behin barruan, "Depurador local de Windows"-n klikatu behar da.
 Eta horrela joko honetan jolas daiteke.
 
+  Oharra:
+  Karpeta printzipala "MUndua" deitu behar da eta bere barruan "sdlExamplesVcWS" karpeta egon behar da. Hori horrela ez bada, batzuetan arazoak ematen ditu.
+
 -------------------------------------------------------------------------------------
 
 MUNDUA
@@ -22,6 +25,9 @@ En la carpeta, se debe abrir el archivo .sln (Microsoft Visual Studio lo abrirá
 Una vez dentro, se debe hacer clic en "Depurador local de Windows".
 Y así se puede jugar a este juego.
 
+  Nota:
+  La carpeta principal debe llamarse "MUndua" y dentro de ella debe estar la carpeta "sdlExamplesVcWS". Si no es así, a veces puede causar problemas.
+
 -------------------------------------------------------------------------------------
 
 MUNDUA
@@ -34,3 +40,6 @@ Then, unzip it by right clicking and selecting "unzip".
 In the folder, open the .sln file (Microsoft Visual Studio will open it).
 Once inside, click on "Windows Local Debugger".
 And then you can play this game.
+
+  Note:
+  The main folder must be named "MUndua" and inside it, there must be a folder named "sdlExamplesVcWS". If this is not the case, it can sometimes cause problems.
